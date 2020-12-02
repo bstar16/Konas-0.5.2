@@ -9,8 +9,6 @@
 
 <p align="center"> Released due to Mikhail/GL__DONT__CARE attempting to blackmail (badly) </p>
 
-<p align="center"> Thanks to Crystallinqq for dumping method </p>
-
 <p align="center"> Loader made with swag by Charlie353535, dumped by Denomi<br>Crack by Charlie and Denomi</p>
 <p align="center"> Please note that Konas is a modification to cookiedragon234's <a href="https://github.com/x4e/Luchadora">Luchadora</a> (Which is licensed under <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU Affero General Public License v3.0</a>) as it uses code which was NOT forked from the original repository and is being used commercially thus releasing this is under no way in violation of the Digital Millennium Copyright Act (DMCA) </p>
 
@@ -22,3 +20,5 @@ Put konas.jar in your .minecraft<br>
 Put konas-b0.5.2-release.jar in your mods folder<br>
 Launch Minecraft.
 </p>
+
+<p align="center"> Thanks to Crystallinqq for dumping method </p>
