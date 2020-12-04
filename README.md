@@ -18,7 +18,10 @@
 <p align="center">How to use this:<br>
 Put konas.jar in your .minecraft<br>
 Put konas-b0.5.2-release.jar in your mods folder<br>
-Launch Minecraft.
+Launch Minecraft.<br>
+ <br>
+ the konas discord will not provide help, to use the GUI, do: <br>
+ <code>.bind ClickGUI {KEY}</code>                                                           
 </p>
 
 <p align="center"> Thanks to Crystallinqq for dumping method </p>
